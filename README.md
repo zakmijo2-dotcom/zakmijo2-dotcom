@@ -1,49 +1,54 @@
 <div align="center">
 
-<!-- Hero Banner (Vibrant Dynamic SVG) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30&height=230&section=header&text=MIJOZAK%20%7C%20PRINCIPAL%20SYSTEMS%20ARCHITECT&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Low-Level%20Android%20%E2%80%A2%20On-Device%20LLM%20Inference%20%E2%80%A2%20Autonomous%20Agent%20Engines&descAlignY=58&descSize=16&descColor=00f2fe" width="100%" />
+<!-- Hero Banner (Dynamic Neon Waving Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30&height=240&section=header&text=MIJOZAK%20%E2%9A%A1%20SYSTEMS%20ARCHITECT&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Low-Level%20Android%20%E2%80%A2%20Edge%20LLM%20Inference%20%E2%80%A2%20Autonomous%20Agent%20Sandboxes&descAlignY=58&descSize=16&descColor=00f2fe" width="100%" />
 
-<!-- Typing Animated Banner -->
+<!-- Animated Dynamic Typing Banner -->
 <a href="https://github.com/zakmijo2-dotcom">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=900&color=00F2FE&multiline=true&width=700&height=75&lines=Compiling+Edge+LLMs+for+Sub-Watt+ARM64+Silicon;Hardening+Sovereign%2C+Sandboxed+AI+Agent+Runtimes;Zero-Latency+Native+Android+%26+WebGL+Spatial+Engines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=900&color=00F2FE&multiline=true&width=750&height=80&lines=%E2%9A%A1+Compiling+Edge+LLMs+for+Sub-Watt+ARM64+Silicon;%F0%9F%9B%A1%EF%B8%8F+Hardening+Sovereign%2C+Sandboxed+AI+Agent+Runtimes;%F0%9F%8E%AE+Zero-Latency+Native+Android+%26+WebGL+Spatial+Engines;%F0%9F%94%A5+Eliminating+Cloud+Leases+with+Deterministic+Local+Compute" alt="Typing Banner" />
 </a>
 
+<br/>
+
+<!-- Real-time Telemetry Status Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakmijo2-dotcom&label=SYSTEM+AUDITS&color=00f2fe&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=zakmijo2-dotcom&label=TELEMETRY+AUDITS&color=00f2fe&style=for-the-badge" alt="Views" />
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL%20%2F%20BARE--METAL-00f2fe?style=for-the-badge&logo=target&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/PLATFORM-ANDROID%20%7C%20LINUX%20%7C%20ARM64-ff0055?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/LICENSE-OPEN%20SOURCE-7928ca?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/STACK-ANDROID%20%7C%20LINUX%20%7C%20ARM64-ff0055?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/RUNTIME-OFFLINE--FIRST%20SOVEREIGN-7928ca?style=for-the-badge&logo=shield&logoColor=white" alt="Runtime" />
 </p>
 
 </div>
 
 ---
 
-### 💻 SYSTEM TELEMETRY
+### 💻 SYSTEM HARDWARE TELEMETRY
 
 ```bash
-mijo@edge-core:~$ neofetch --stdout
-OS: Android 15 (aarch64) / Termux Native
-Host: Snapdragon 8-Series (8 Cores @ ARMv9)
-Kernel: Linux 6.1.x hardened
-Architecture: Edge Silicon / Local-First Sovereign Stack
-Uptime: 99.98% (Offline-First / Zero Cloud Dependency)
-Directives: [On-Device LLMs, Agent Sandboxing, Native Android NDK, High-LOD WebGL]
+mijo@baremetal-arm64:~$ sysinfo --verbose
+OS              : Android 15 (aarch64) / Termux Bare-Metal
+Silicon Host    : Snapdragon 8-Series (ARMv9-A / 8 Cores @ 3.36 GHz)
+Kernel          : Linux 6.1.x hardened (Low-Latency Preempt)
+Memory Policy   : Persistent Eviction-Resistant IndexedDB + Chunk-Streamed PMTiles
+Architecture    : Sovereign Local-First Intelligence Stack
+Core Directives : [Sub-Watt Edge LLMs, Process Sandboxing, Zero GC Pressure, WebGL Culling]
+System Integrity: 100% DETERMINISTIC // ZERO CLOUD DEPENDENCY
 ```
 
 ---
 
-### ⚡ ARCHITECTURAL MANIFESTO
+### ⚡ ARCHITECTURAL PHILOSOPHY & MANIFESTO
 
-> **"If software cannot execute without external servers, it is a lease, not an asset."**  
+> 🛡️ **"If software cannot execute without external servers, it is a lease, not an asset."**  
+> 
 > I engineer deterministic, local-first intelligence and high-throughput systems that run directly on edge silicon. My focus is eliminating cloud latency, securing autonomous agent execution in hardened sandboxes, and squeezing maximum compute from constrained hardware.
 
 ```ascii
  ┌────────────────────────────────────────────────────────────────────────┐
- │  EDGE SILICON LAYER   │  AGENT RUNTIME LAYER  │  GRAPHICS & MEMORY     │
- │  • Qwen 2.5 / Tamazight│ • Multi-Provider Bus  │  • Vector Culling/LOD  │
- │  • GGUF / ONNX / Wasm │ • Process Isolation   │  • MapLibre GL 2.0     │
- │  • Sub-Watt Inference │ • Keystore Encryption │  • Zero GC Pressure    │
+ │ 🧠 EDGE SILICON LAYER │ 🛡️ AGENT RUNTIME CORE │ 🎮 GRAPHICS & SPATIAL  │
+ │ • Qwen 2.5 / Tamazight│ • Multi-Provider Bus  │ • Viewport Culling     │
+ │ • GGUF / ONNX / Wasm  │ • Process Isolation   │ • PMTiles Chunk Stream │
+ │ • Sub-Watt Inference  │ • Keystore Encryption │ • MapLibre GL 2.0 / LOD│
  └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -53,13 +58,13 @@ Directives: [On-Device LLMs, Agent Sandboxing, Native Android NDK, High-LOD WebG
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,android,ts,react,nodejs,python,bash,linux,docker,git,sqlite,electron&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kotlin,android,ts,react,nodejs,python,rust,cpp,bash,linux,docker,git,sqlite,electron&perline=7&theme=dark" />
 
 </div>
 
 <br/>
 
-| Technical Vector | Engineering Focus | Technologies & Tooling |
+| Technical Vector | Core Mission & Architecture | Technologies & Tooling |
 |---|---|---|
 | **🧠 On-Device AI & LLMs** | Quantization, low-rank adaptation (LoRA), edge NLP, and local token streaming. | `Qwen2.5` `Transformers.js` `ONNX` `PyTorch` `MCP` `Ollama` |
 | **📱 Native Android Systems** | Thread safety, memory leak elimination, hardware-accelerated layouts, and NDK. | `Kotlin` `Jetpack Compose` `Coroutines` `Capacitor 7` `Media3` |
@@ -68,7 +73,7 @@ Directives: [On-Device LLMs, Agent Sandboxing, Native Android NDK, High-LOD WebG
 
 ---
 
-### 💥 FLAGSHIP ENGINEERING REPOSITORIES
+### 💥 FLAGSHIP PRODUCTION REPOSITORIES
 
 <table width="100%">
 <tr>
@@ -125,36 +130,46 @@ Low-latency media engine: Media3, Xtream Codes, EPG, Android TV, and Picture-in-
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📲 [oh-my-pi-mobile](https://github.com/zakmijo2-dotcom/oh-my-pi-mobile)
+**Local-First Android Agent Port**  
+Bare-metal Android port of the Pi agent runtime with native terminal emulation and Keystore-backed credential security.  
+`Kotlin` `Android NDK` `Agent Runtime` `Keystore`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ [Kayno-ai-cli](https://github.com/zakmijo2-dotcom/Kayno-ai-cli)
+**Zero-Dependency Terminal Coding Agent**  
+Ultra-fast, lightweight autonomous terminal coding agent built specifically for resource-constrained Termux environments.  
+`Node.js` `CLI` `Autonomous Agent` `Termux Native`
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🏆 SYSTEM BENCHMARKS & BATTLE STATS
+### 📊 SYSTEM BENCHMARKS & TELEMETRY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zakmijo2-dotcom&theme=matrix&no-frame=true&row=1&column=7&margin-w=6" alt="Trophies" width="100%" />
-
-<br/><br/>
-
 <a href="https://github.com/zakmijo2-dotcom">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakmijo2-dotcom&show_icons=true&theme=radical&hide_border=true&title_color=00f2fe&icon_color=ff0055&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakmijo2-dotcom&theme=radical&hide_border=true&background=0d1117&ring=00f2fe&fire=ff0055&currStreakLabel=00f2fe" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zakmijo2-dotcom&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=ff0055&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=zakmijo2-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=ff0055&currStreakLabel=00f2fe" width="48%" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakmijo2-dotcom&layout=compact&theme=radical&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakmijo2-dotcom&theme=matrix&color=00f2fe&line=00f2fe&point=ff0055&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakmijo2-dotcom&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=0d1117" width="58%" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30&height=100&section=footer" width="100%" />
-  <sub>⚡ Engineered for speed. Hardened for resilience. Always executing on bare metal.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,30&height=110&section=footer" width="100%" />
+  <sub>⚡ Engineered for raw speed. Hardened for zero trust. Always executing on bare metal silicon.</sub>
 </div>
